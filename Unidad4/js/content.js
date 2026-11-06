@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 54cf015b
- *  generatedAt:   2026-11-05T04:37:18.716Z
+ *  contentSha256: 99ff685b
+ *  generatedAt:   2026-11-06T04:23:57.438Z
  */
-window.OVA_CONTENT_META = { contentSha256: "54cf015b", generatedAt: "2026-11-05T04:37:18.716Z" };
+window.OVA_CONTENT_META = { contentSha256: "99ff685b", generatedAt: "2026-11-06T04:23:57.438Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Adherencia terapéutica y evaluación de la adopción de las recomendaciones nutricionales",
   "unitCode": "Unidad 4",
@@ -70,7 +70,7 @@ window.OVA_CONTENT = {
           "icon": "assets/1.retomar.png",
           "paragraph": null,
           "paragraphs": [
-            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, Nicolás regresa al control después de recibir un plan de alimentación individualizado. Puede explicar varias recomendaciones, pero continúa omitiendo comidas. Comenta que se cansa al cocinar, su hija no siempre puede ayudarlo y todavía teme que algunos alimentos eleven su glucosa. En la historia clínica solo aparece “Se brinda educación nutricional”, sin acuerdos ni responsables de seguimiento.",
+            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, Elena regresa al control después de recibir un plan de alimentación individualizado. Puede explicar varias recomendaciones, pero continúa omitiendo comidas. Comenta que se cansa al cocinar, su hija no siempre puede ayudarla y todavía teme que algunos alimentos eleven su glucosa. En la historia clínica solo aparece “Se brinda educación nutricional”, sin acuerdos ni responsables de seguimiento.",
             "El equipo necesita comprender qué está dificultando la aplicación del plan y cómo continuar el acompañamiento."
           ],
           "image": "assets/retomar_u4.jpg",
@@ -89,7 +89,7 @@ window.OVA_CONTENT = {
           "icon": "assets/2.Actividad_reflexiva.png",
           "boxes": [
             {
-              "desc": "¿Qué podría explicar que Nicolás comprenda las recomendaciones y, aun así, tenga dificultades para aplicarlas?",
+              "desc": "¿Qué podría explicar que Elena comprenda las recomendaciones y, aun así, tenga dificultades para aplicarlas?",
               "span": "col-2"
             },
             {
@@ -107,7 +107,7 @@ window.OVA_CONTENT = {
           "title": "3. Tomar una posición inicial",
           "icon": "assets/3.toma_decisiones.png",
           "paragraph": null,
-          "highlightLead": "Imagine que Nicolás le dice: \"Yo sé lo que debo hacer, pero cuando estoy solo no logro organizarme\".",
+          "highlightLead": "Imagine que Elena le dice: \"Yo sé lo que debo hacer, pero cuando estoy sola no logro organizarme\".",
           "highlightQuestion": "Desde su experiencia y rol profesional, ¿cómo abordaría esta situación y por qué lo haría de esa manera?",
           "paragraphs": []
         },
