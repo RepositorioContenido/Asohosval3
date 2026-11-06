@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: b0fec1fe
- *  generatedAt:   2026-11-05T04:37:18.571Z
+ *  contentSha256: e180bad6
+ *  generatedAt:   2026-11-06T04:23:57.350Z
  */
-window.OVA_CONTENT_META = { contentSha256: "b0fec1fe", generatedAt: "2026-11-05T04:37:18.571Z" };
+window.OVA_CONTENT_META = { contentSha256: "e180bad6", generatedAt: "2026-11-06T04:23:57.350Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Identificación de riesgos nutricionales y oportunidades de intervención en pacientes crónicos",
   "unitCode": "Unidad 2",
@@ -70,7 +70,7 @@ window.OVA_CONTENT = {
           "icon": "assets/1.retomar.png",
           "paragraph": null,
           "paragraphs": [
-            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, Nicolás ha perdido cuatro kilogramos sin proponérselo y refiere menor apetito y consumo de alimentos. Sin embargo, estos cambios pasaron inadvertidos porque se consideró adecuado su peso actual. Además, los servicios de la IPS utilizan criterios diferentes para identificar el riesgo nutricional.",
+            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, Elena ha perdido cuatro kilogramos sin proponérselo y refiere menor apetito y consumo de alimentos. Sin embargo, estos cambios pasaron inadvertidos porque se consideró adecuado su peso actual. Además, los servicios de la IPS utilizan criterios diferentes para identificar el riesgo nutricional.",
             "Esta situación plantea una pregunta: ¿cómo reconocer quién necesita una evaluación más amplia y organizar una respuesta oportuna desde el primer contacto?"
           ],
           "image": "assets/retomar_u2.jpg",
@@ -89,7 +89,7 @@ window.OVA_CONTENT = {
           "icon": "assets/2.Actividad_reflexiva.png",
           "boxes": [
             {
-              "desc": "Si el peso actual de Nicolás parece adecuado, ¿qué otros datos de su historia le harían prestar atención a su situación nutricional?",
+              "desc": "Si el peso actual de Elena parece adecuado, ¿qué otros datos de su historia le harían prestar atención a su situación nutricional?",
               "span": "col-2"
             },
             {
@@ -107,7 +107,7 @@ window.OVA_CONTENT = {
           "title": "3. Tomar una posición inicial",
           "icon": "assets/3.toma_decisiones.png",
           "paragraph": null,
-          "highlightLead": "Imagine que usted identifica la pérdida de peso y el menor consumo de Nicolás durante la atención. Desde su experiencia y rol profesional,",
+          "highlightLead": "Imagine que usted identifica la pérdida de peso y el menor consumo de Elena durante la atención. Desde su experiencia y rol profesional,",
           "highlightQuestion": "¿qué haría primero y por qué?",
           "paragraphs": [
             "Si desconoce el procedimiento de su institución, piense en qué tendría que consultar para conocerlo."
