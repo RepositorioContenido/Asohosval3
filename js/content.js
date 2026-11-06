@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 5d117a0b
- *  generatedAt:   2026-11-05T04:37:18.408Z
+ *  contentSha256: 8e511dec
+ *  generatedAt:   2026-11-06T04:23:57.481Z
  */
-window.OVA_CONTENT_META = { contentSha256: "5d117a0b", generatedAt: "2026-11-05T04:37:18.408Z" };
+window.OVA_CONTENT_META = { contentSha256: "8e511dec", generatedAt: "2026-11-06T04:23:57.481Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Orientaciones y tratamiento nutricional integral del paciente crónico para equipos interdisciplinarios de salud",
   "unitCode": "Reto central",
@@ -131,15 +131,15 @@ window.OVA_CONTENT = {
             },
             {
               "type": "paragraph",
-              "text": "En este contexto ingresa Nicolás, un hombre de 74 años con diabetes mellitus tipo 2 e hipertensión arterial, por una descompensación de su diabetes. Una vez estabilizada, durante la entrevista de enfermería comenta que en los últimos tres meses ha comido menos por falta de apetito y temor a que los alimentos aumenten su glucosa o presión arterial. En ese periodo, su peso pasó de 64 a 60 kg sin proponérselo. Mide 1,60 m y presenta un IMC aproximado de 23,4 kg/m². La pérdida de peso y la disminución del consumo no habían generado una solicitud de valoración nutricional, pues se había considerado que su peso actual era adecuado."
+              "text": "En este contexto ingresa Elena, una mujer de 74 años con diabetes mellitus tipo 2 e hipertensión arterial, por una descompensación de su diabetes. Una vez estabilizada, durante la entrevista de enfermería comenta que en los últimos tres meses ha comido menos por falta de apetito y temor a que los alimentos aumenten su glucosa o presión arterial. En ese periodo, su peso pasó de 64 a 60 kg sin proponérselo. Mide 1,60 m y presenta un IMC aproximado de 23,4 kg/m². La pérdida de peso y la disminución del consumo no habían generado una solicitud de valoración nutricional, pues se había considerado que su peso actual era adecuado."
             },
             {
               "type": "paragraph",
-              "text": "Nicolás explica: \"Me dijeron que no comiera dulce ni sal, pero ya no sé qué puedo comer\". Por iniciativa propia ha eliminado las frutas, reducido considerablemente las porciones y, algunos días, omitido comidas. Continúa utilizando sus medicamentos para la diabetes, incluida insulina basal, pero no tiene claridad sobre qué hacer cuando come menos. El equipo necesita relacionar estos antecedentes con los registros de glucosa, la presencia de posibles hipoglucemias, las mediciones de presión arterial y la evolución de su alimentación y peso."
+              "text": "Elena explica: \"Me dijeron que no comiera dulce ni sal, pero ya no sé qué puedo comer\". Por iniciativa propia ha eliminado las frutas, reducido considerablemente las porciones y, algunos días, omitido comidas. Continúa utilizando sus medicamentos para la diabetes, incluida insulina basal, pero no tiene claridad sobre qué hacer cuando come menos. El equipo necesita relacionar estos antecedentes con los registros de glucosa, la presencia de posibles hipoglucemias, las mediciones de presión arterial y la evolución de su alimentación y peso."
             },
             {
               "type": "paragraph",
-              "text": "Vive con una hija que trabaja durante el día y la apoya en las compras y preparación de alimentos cuando puede. Los recursos económicos son limitados y suelen elegir alimentos de bajo costo y preparaciones rendidoras. Nicolás conserva autonomía para comer, pero refiere dificultades para masticar algunos alimentos y cansancio para cocinar. También expresa preocupación por depender de su familia. Estas condiciones hacen necesario explorar, mediante la Valoración Geriátrica Integral (VGI), sus dimensiones clínica, funcional, mental y social, además de sus necesidades nutricionales."
+              "text": "Vive con una hija que trabaja durante el día y la apoya en las compras y preparación de alimentos cuando puede. Los recursos económicos son limitados y suelen elegir alimentos de bajo costo y preparaciones rendidoras. Elena conserva autonomía para comer, pero refiere dificultades para masticar algunos alimentos y cansancio para cocinar. También expresa preocupación por depender de su familia. Estas condiciones hacen necesario explorar, mediante la Valoración Geriátrica Integral (VGI), sus dimensiones clínica, funcional, mental y social, además de sus necesidades nutricionales."
             },
             {
               "type": "paragraph",
