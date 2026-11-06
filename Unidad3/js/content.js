@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: 6e79eeb1
- *  generatedAt:   2026-11-05T04:37:18.641Z
+ *  contentSha256: 4df1b71f
+ *  generatedAt:   2026-11-06T04:23:57.394Z
  */
-window.OVA_CONTENT_META = { contentSha256: "6e79eeb1", generatedAt: "2026-11-05T04:37:18.641Z" };
+window.OVA_CONTENT_META = { contentSha256: "4df1b71f", generatedAt: "2026-11-06T04:23:57.394Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Integración de recomendaciones nutricionales en el manejo interdisciplinario de enfermedades crónicas prevalentes",
   "unitCode": "Unidad 3",
@@ -70,7 +70,7 @@ window.OVA_CONTENT = {
           "icon": "assets/1.retomar.png",
           "paragraph": null,
           "paragraphs": [
-            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, el equipo ha reconocido que Nicolás necesita atención nutricional. Ahora debe ayudarlo a conciliar el cuidado de su diabetes e hipertensión con la pérdida de peso y el menor consumo de alimentos. Su hija pregunta cómo preparar las comidas con el presupuesto disponible y los alimentos habituales. Nicolás sigue recibiendo mensajes que percibe como contradictorios.",
+            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, el equipo ha reconocido que Elena necesita atención nutricional. Ahora debe ayudarle a conciliar el cuidado de su diabetes e hipertensión con la pérdida de peso y el menor consumo de alimentos. Su hija pregunta cómo preparar las comidas con el presupuesto disponible y los alimentos habituales. Elena sigue recibiendo mensajes que percibe como contradictorios.",
             "El desafío es convertir las recomendaciones en un plan coherente que pueda llevarse a la mesa del hogar."
           ],
           "image": "assets/retomar_u3.jpg",
@@ -107,7 +107,7 @@ window.OVA_CONTENT = {
           "title": "3. Tomar una posición inicial",
           "icon": "assets/3.toma_decisiones.png",
           "paragraph": null,
-          "highlightLead": "Imagine que Nicolás y su hija le preguntan: \"¿Tenemos que comprar alimentos especiales o podemos seguir preparando nuestras comidas?\".",
+          "highlightLead": "Imagine que Elena y su hija le preguntan: \"¿Tenemos que comprar alimentos especiales o podemos seguir preparando nuestras comidas?\".",
           "highlightQuestion": "¿Qué elementos necesitaría conocer del plan y del hogar antes de responder, y qué duda consultaría con otro integrante del equipo?",
           "paragraphs": [
             "A partir de su experiencia y rol profesional, reflexione cómo abordaría esta inquietud y por qué."
@@ -214,7 +214,7 @@ window.OVA_CONTENT = {
           "heroIcon": "assets/icons/practica.png",
           "icon": "assets/icons/practica.png",
           "kicker": "ESTUDIO O MÉTODO DE CASO",
-          "headline": "Del plan de alimentación a la mesa de Nicolás",
+          "headline": "Del plan de alimentación a la mesa de Elena",
           "paragraphs": [
             "¡Es momento de aplicar lo aprendido!",
             "Dé clic en el botón y ponga a prueba sus conocimientos."
