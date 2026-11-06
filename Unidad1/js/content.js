@@ -8,10 +8,10 @@
  *  edita  content.json  y corré el generador.
  * ===========================================================================
  *
- *  contentSha256: c1131752
- *  generatedAt:   2026-11-05T04:37:18.500Z
+ *  contentSha256: 17e9967a
+ *  generatedAt:   2026-11-06T04:23:57.301Z
  */
-window.OVA_CONTENT_META = { contentSha256: "c1131752", generatedAt: "2026-11-05T04:37:18.500Z" };
+window.OVA_CONTENT_META = { contentSha256: "17e9967a", generatedAt: "2026-11-06T04:23:57.301Z" };
 window.OVA_CONTENT = {
   "courseTitle": "Fundamentos del manejo nutricional en la atención integral de pacientes con enfermedades crónicas",
   "unitCode": "Unidad 1",
@@ -70,7 +70,7 @@ window.OVA_CONTENT = {
           "icon": "assets/1.retomar.png",
           "paragraph": null,
           "paragraphs": [
-            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, conocemos a Nicolás, de 74 años, con diabetes e hipertensión. Por temor a que los alimentos empeoren sus enfermedades, ha eliminado las frutas, reducido las porciones y omitido comidas. En tres meses pasó de 64 a 60 kg sin proponérselo. Además, tiene molestias al masticar y dificultades para cocinar. Durante la atención recibe mensajes que percibe como contradictorios.",
+            "En el reto “Cada contacto cuenta: una oportunidad para nutrir y cuidar”, conocemos a Elena, de 74 años, con diabetes e hipertensión. Por temor a que los alimentos empeoren sus enfermedades, ha eliminado las frutas, reducido las porciones y omitido comidas. En tres meses pasó de 64 a 60 kg sin proponérselo. Además, tiene molestias al masticar y dificultades para cocinar. Durante la atención recibe mensajes que percibe como contradictorios.",
             "Esta situación invita a revisar qué entendemos por una alimentación adecuada para alguien que vive con varias enfermedades."
           ],
           "image": "assets/retomar_u1.jpg",
@@ -107,7 +107,7 @@ window.OVA_CONTENT = {
           "title": "3. Tomar una posición inicial",
           "icon": "assets/3.toma_decisiones.png",
           "paragraph": null,
-          "highlightLead": "Imagine que Nicolás le dice: \"Ya no sé qué puedo comer\". Apóyese en su experiencia y, desde su rol profesional, piense qué necesitaría preguntarle para comprender mejor su situación.",
+          "highlightLead": "Imagine que Elena le dice: \"Ya no sé qué puedo comer\". Apóyese en su experiencia y, desde su rol profesional, piense qué necesitaría preguntarle para comprender mejor su situación.",
           "highlightQuestion": "¿Qué le respondería y por qué?",
           "paragraphs": []
         },
@@ -126,7 +126,7 @@ window.OVA_CONTENT = {
               "span": "col-2"
             },
             {
-              "desc": "El video conceptual y los demás recursos permitirán ampliar su mirada frente a la situación de Nicolás y fundamentar las orientaciones que ofrece durante la atención. Piense en una situación similar de su servicio y en cómo estos aprendizajes podrían ayudarle a abordarla.",
+              "desc": "El video conceptual y los demás recursos permitirán ampliar su mirada frente a la situación de Elena y fundamentar las orientaciones que ofrece durante la atención. Piense en una situación similar de su servicio y en cómo estos aprendizajes podrían ayudarle a abordarla.",
               "span": "col-2"
             }
           ]
